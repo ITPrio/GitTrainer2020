@@ -16,6 +16,7 @@ namespace GitTrainer2020ConsoleApp
             Console.WriteLine("Branch3");
             Console.WriteLine("Branch4");
             Console.WriteLine("Branch5");
+            Console.WriteLine("Branch6");
 
 
 
