@@ -9,6 +9,7 @@ namespace GitTrainer2020ConsoleApp
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Master1");
+            Console.WriteLine("Master2");
 
 
         }
